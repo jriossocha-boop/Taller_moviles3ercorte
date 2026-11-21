@@ -56,7 +56,8 @@ lib/
 ## Ejecución
 
 ```bash
-git clone <URL-DEL-REPOSITORIO>
+git clone https://github.com/jriossocha-boop/Taller_moviles3ercorte.git
+
 cd taller_3ercorte
 flutter pub get
 flutter run
